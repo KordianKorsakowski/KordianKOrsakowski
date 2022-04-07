@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 🎉 I stared learning programming in June 2021 !!!
 - 🔭 I’m currently working on Quit-Smoking Web App
-- 🌱 I’m currently learning React.js and TypeScript
+- 🌱 I’m currently learning Redux and TypeScript
 - 📚 I learned about technologies such as: JavaScript, Node.js, React.js, Css, Sass, html5, Git
 - 📫 How to reach me: k.o.korsakowski@gmail.com
 
