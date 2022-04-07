@@ -1,4 +1,9 @@
 ### Hi there 👋
+- 🔭 I’m currently working on Quit-Smoking Web App
+- 🌱 I’m currently learning React.js and TypeScript
+- 📚 I learned about technologies such as: JavaScript, Node.js, React.js, Css, Sass, html5, Git
+- 📫 How to reach me: k.o.korsakowski@gmail.com
+
 
 <!--
 **KordianKorsakowski/KordianKorsakowski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
